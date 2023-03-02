@@ -1,0 +1,13 @@
+[ERAPRO_DETAILS]
+host = ora-era-read-hl.ebi.ac.uk
+port = 1531
+serviceName = ERAPRO
+userName = era_reader
+password = reader
+
+[ENAPRO_DETAILS]
+host = ora-vm-109.ebi.ac.uk
+port = 1531
+serviceName = ENAPRO
+userName = ena_reader
+password = reader
